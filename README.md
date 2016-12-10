@@ -1,2 +1,4 @@
 # Hello_World
-Just another repository
+
+Hi, 
+  This is my first writting of Readme file.
